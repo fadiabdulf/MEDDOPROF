@@ -1,0 +1,11 @@
+pandas
+spacy
+gensim==3.8.3
+nltk==3.5
+tqdm==4.48.0
+requests==2.24.0
+sklearn==0.23.1
+transformers==3.0.0
+tokenizers==0.8.0.rc4
+matplotlib==3.2.2
+tensorflow==2.2.0
