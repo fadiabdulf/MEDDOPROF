@@ -24,5 +24,4 @@ bin-release/
 *.so
 *.pyd
 secure.py
-*.ipynb
 *.csv
