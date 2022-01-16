@@ -5,5 +5,5 @@
     - A GPU machine.
     - To download the dataset from the organizer website and put them in the main directory under the folder "data" (https://zenodo.org/record/4775741#.YMSgYkyxVPY).
 * To start the docker container, use the following command:
-    > make start
+    > make run
 
